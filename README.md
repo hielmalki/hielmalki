@@ -2,10 +2,10 @@
 
 # Hicham El Malki
 
-**Senior Software Engineer · AI Application Builder**
+**Senior Software Engineer**
 
-6+ Jahre Backend-Engineering im Banking- und Versicherungssektor.
-Fokus auf LLM-basierte Anwendungen für regulierte Industrien.
+Über 6 Jahre Erfahrung im Backend-Engineering im Banking- und Versicherungsumfeld.
+Spezialisiert auf Microservices-Architekturen und die Entwicklung von Webanwendungen für regulierte Branchen.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hicham-el-malki-185b0518a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi.elmalki@hotmail.com)
@@ -26,8 +26,7 @@ Versicherungsplattformen.
 Aktuell beschäftige ich mich intensiv mit:
 
 - **LLM Application Engineering** — RAG, Agenten-Architekturen, Evaluation
-- **Cloud-Architektur** — AWS Solutions Architect Zertifizierung in Vorbereitung
-- **AI für regulierte Industrien** — Compliance, Datenschutz, Auditierbarkeit
+- **Cloud-Architektur**
 
 ---
 
