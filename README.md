@@ -62,18 +62,13 @@ Aktuell beschäftige ich mich intensiv mit:
 KI-gestützte Code-Qualitätsprüfung. Analysiert Pull Requests automatisiert
 und liefert kontextbezogenes Feedback an Entwicklerteams.
 
-**Stack:** [hier deine echten Technologien einfügen]
-
 ### [JiraOpenAI](https://github.com/hielmalki/JiraOpenAI)
 LLM-Integration für Jira-Workflows. Automatisiert Ticket-Triage,
 Zusammenfassungen und Priorisierung.
 
-**Stack:** [hier deine echten Technologien einfügen]
-
 ### [gitpulse](https://github.com/hielmalki/gitpulse)
 GitHub-Aktivitäts-Monitoring mit AI-basierten Insights für Engineering-Teams.
 
-**Stack:** [hier deine echten Technologien einfügen]
 
 ---
 
