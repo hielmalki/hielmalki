@@ -40,9 +40,16 @@ Aktuell beschäftige ich mich intensiv mit:
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Datenbanken**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,6 +63,13 @@ Aktuell beschäftige ich mich intensiv mit:
 ---
 
 ## 🚀 Ausgewählte Projekte
+
+### [azure-boards-quality-gate](https://github.com/hielmalki/azure-boards-quality-gate)
+KI-gestütztes Quality Gate für **Azure Boards**. Prüft Anforderungen direkt im
+Work-Item-Formular auf Qualität, liefert Fix-Vorschläge, erkennt Duplikate und
+generiert Testfälle als native Azure-Test-Case-Work-Items. Azure DevOps Extension
+(React/TypeScript) mit serverlosem Backend auf Azure Functions, Azure Table Storage
+und Key Vault (Managed Identity).
 
 ### [qualitygate-ai](https://github.com/hielmalki/qualitygate-ai)
 KI-gestützte Code-Qualitätsprüfung. Analysiert Pull Requests automatisiert
