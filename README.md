@@ -101,6 +101,6 @@ Vollständiger Werdegang: [LinkedIn](https://linkedin.com/in/hicham-el-malki-185
 
 <div align="center">
 
-📍 Frankfurt am Main · 💬 Verfügbar für Diskussionen über AI in regulierten Industrien
+📍 Frankfurt am Main
 
 </div>
