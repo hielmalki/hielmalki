@@ -84,9 +84,7 @@ GitHub-Aktivitäts-Monitoring mit AI-basierten Insights für Engineering-Teams.
 ---
 
 ## 💼 Berufserfahrung (Auswahl)
-
-- **IT-Consultant** — zeb (aktuell)
-- **Java Backend Developer** — Findic GmbH · Projekt: PMA Versicherungsmakler
+- **Java Backend Developer** — Findic GmbH · Projekt: PMA Versicherungsmakler (aktuell)
 - **Fullstack Developer** — ITinera GmbH · Projekt: KfW Bank
 - **Java Backend Developer** — Prime Force Group · Projekt: DZ BANK Portal
 
