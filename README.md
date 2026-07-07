@@ -71,13 +71,11 @@ generiert Testfälle als native Azure-Test-Case-Work-Items. Azure DevOps Extensi
 (React/TypeScript) mit serverlosem Backend auf Azure Functions, Azure Table Storage
 und Key Vault (Managed Identity).
 
-### [qualitygate-ai](https://github.com/hielmalki/qualitygate-ai)
-KI-gestützte Code-Qualitätsprüfung. Analysiert Pull Requests automatisiert
-und liefert kontextbezogenes Feedback an Entwicklerteams.
-
-### [JiraOpenAI](https://github.com/hielmalki/JiraOpenAI)
-LLM-Integration für Jira-Workflows. Automatisiert Ticket-Triage,
-Zusammenfassungen und Priorisierung.
+### [AWSAICoach](https://github.com/hielmalki/AWSAICoach)
+Native iOS-App (SwiftUI) zur Vorbereitung auf die AWS-Zertifizierung
+*Certified Cloud Practitioner (CLF-C02)*. Adaptives Quiz mit Spaced-Repetition-
+Lernsystem, offline-fähige Inhalte und ein KI-Tutor (OpenAI) über einen mit
+Apple App Attest abgesicherten Cloudflare-Worker-Proxy.
 
 ### [gitpulse](https://github.com/hielmalki/gitpulse)
 GitHub-Aktivitäts-Monitoring mit AI-basierten Insights für Engineering-Teams.
