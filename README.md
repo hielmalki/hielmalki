@@ -71,11 +71,21 @@ generiert Testfälle als native Azure-Test-Case-Work-Items. Azure DevOps Extensi
 (React/TypeScript) mit serverlosem Backend auf Azure Functions, Azure Table Storage
 und Key Vault (Managed Identity).
 
+<p>
+  <img src="assets/azure-boards-quality-gate-config.png" width="270" alt="Testfall-Konfiguration" />
+  <img src="assets/azure-boards-quality-gate-generated.png" width="270" alt="Generierte Testfälle" />
+  <img src="assets/azure-boards-quality-gate-done.png" width="270" alt="Testfälle als Azure-Test-Cases angelegt" />
+</p>
+
 ### [AWSAICoach](https://github.com/hielmalki/AWSAICoach)
 Native iOS-App (SwiftUI) zur Vorbereitung auf die AWS-Zertifizierung
 *Certified Cloud Practitioner (CLF-C02)*. Adaptives Quiz mit Spaced-Repetition-
 Lernsystem, offline-fähige Inhalte und ein KI-Tutor (OpenAI) über einen mit
 Apple App Attest abgesicherten Cloudflare-Worker-Proxy.
+
+<p>
+  <img src="assets/awsaicoach-onboarding.png" width="220" alt="AWSAICoach Onboarding" />
+</p>
 
 ### [gitpulse](https://github.com/hielmalki/gitpulse)
 GitHub-Aktivitäts-Monitoring mit AI-basierten Insights für Engineering-Teams.
