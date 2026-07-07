@@ -97,8 +97,7 @@ Vollständiger Werdegang: [LinkedIn](https://linkedin.com/in/hicham-el-malki-185
 ## 🎓 Zertifizierungen
 
 - **Certified ScrumMaster (CSM)** — Scrum Alliance, 2022
-- **AWS Cloud Practitioner** — *in Vorbereitung*
-- **AWS Solutions Architect Associate** — *geplant 2026*
+- **AWS Cloud Practitioner** — 06/2026
 
 ---
 
