@@ -1,106 +1,47 @@
-<div align="center">
-
 # Hicham El Malki
 
-**Senior Software Engineer**
+**Senior Software Engineer · Backend & AI Engineering**
+Frankfurt am Main · [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a) · [hi.elmalki@hotmail.com](mailto:hi.elmalki@hotmail.com)
 
-Über 6 Jahre Erfahrung im Backend-Engineering im Banking- und Versicherungsumfeld.
-Spezialisiert auf Microservices-Architekturen und die Entwicklung von Webanwendungen für regulierte Branchen.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hicham-el-malki-185b0518a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi.elmalki@hotmail.com)
-[![Location](https://img.shields.io/badge/Frankfurt-grey?style=flat-square&logo=googlemaps)](https://www.google.com/maps/place/Frankfurt)
-
-</div>
+Über 6 Jahre Erfahrung im Backend-Engineering für Banken und Versicherer — von Zahlungsverkehrssystemen bei der **KfW Bank** über Bankenportale für die **DZ BANK** bis zu Versicherungsplattformen. Spezialisiert auf produktionsreife Microservices in regulierten Umgebungen, zunehmend ergänzt um LLM-Anwendungen (RAG, Agenten-Architekturen, Evaluation).
 
 ---
 
-## 🧭 Über mich
+## Tech Stack
 
-Ich bin Senior Software Engineer mit Fokus auf produktionsreife Backend-Systeme
-und AI-Anwendungen für Enterprise-Kunden. Meine Erfahrung kommt aus
-Banking- und Versicherungsprojekten — von Zahlungsverkehrssystemen
-bei der **KfW Bank** über Bankenportale für die **DZ BANK** bis hin zu
-Versicherungsplattformen.
-
-Aktuell beschäftige ich mich intensiv mit:
-
-- **LLM Application Engineering** — RAG, Agenten-Architekturen, Evaluation
-- **Cloud-Architektur**
+| Bereich | Technologien |
+|---|---|
+| Backend | Java 17/21, Spring Boot 3, REST-APIs, Microservices, JPA/Hibernate |
+| Security | Spring Security, OAuth2, Keycloak |
+| Cloud & Infrastruktur | AWS, Azure, Kubernetes, OpenShift, Helm, Docker |
+| Datenbanken | PostgreSQL, IBM DB2, MongoDB |
+| Frontend | React, TypeScript, Vue.js |
+| AI & LLM | OpenAI, Anthropic Claude, RAG- & Agenten-Architekturen |
 
 ---
 
-## 🛠️ Tech Stack
+## Ausgewählte Projekte
 
-**Backend & Engineering**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1E88E5?style=for-the-badge)
+**[azure-boards-quality-gate](https://github.com/hielmalki/azure-boards-quality-gate)**
+KI-gestütztes Quality Gate für Azure Boards: prüft Anforderungen direkt im Work-Item-Formular, liefert Fix-Vorschläge, erkennt Duplikate und generiert Testfälle als native Test-Case-Work-Items. React/TypeScript-Extension mit serverlosem Backend (Azure Functions, Table Storage, Key Vault).
 
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+**[AWSAICoach](https://github.com/hielmalki/AWSAICoach)**
+Native iOS-App (SwiftUI) zur Vorbereitung auf die AWS-Zertifizierung Cloud Practitioner: adaptives Quiz mit Spaced Repetition, offline-fähig, KI-Tutor über einen mit Apple App Attest abgesicherten Cloudflare-Worker-Proxy.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Datenbanken**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DB2](https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI & LLM Engineering**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+**[gitpulse](https://github.com/hielmalki/gitpulse)**
+Rust-CLI zur Qualitätsanalyse von GitHub-Profilen: berechnet einen Developer Health Score aus elf gewichteten Kriterien, inkl. Contribution-Heatmap und priorisierten Verbesserungsvorschlägen.
 
 ---
 
-## 🚀 Ausgewählte Projekte
+## Berufserfahrung (Auswahl)
 
-### [azure-boards-quality-gate](https://github.com/hielmalki/azure-boards-quality-gate)
-KI-gestütztes Quality Gate für **Azure Boards**. Prüft Anforderungen direkt im
-Work-Item-Formular auf Qualität, liefert Fix-Vorschläge, erkennt Duplikate und
-generiert Testfälle als native Azure-Test-Case-Work-Items. Azure DevOps Extension
-(React/TypeScript) mit serverlosem Backend auf Azure Functions, Azure Table Storage
-und Key Vault (Managed Identity).
+- **Fullstack Developer** — findic (zeb) · Projekt: PMA Versicherungsmakler
+- **Fullstack Developer** — itenera · Projekt: KfW Bank, Darlehensbuchhaltung
+- **Backend Developer** — Prime Force Group · Projekt: DZ BANK, VR-BankenPortal
 
-### [AWSAICoach](https://github.com/hielmalki/AWSAICoach)
-Native iOS-App (SwiftUI) zur Vorbereitung auf die AWS-Zertifizierung
-*Certified Cloud Practitioner (CLF-C02)*. Adaptives Quiz mit Spaced-Repetition-
-Lernsystem, offline-fähige Inhalte und ein KI-Tutor (OpenAI) über einen mit
-Apple App Attest abgesicherten Cloudflare-Worker-Proxy.
+Vollständiger Werdegang auf [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a).
 
-### [gitpulse](https://github.com/hielmalki/gitpulse)
-GitHub-Aktivitäts-Monitoring mit AI-basierten Insights für Engineering-Teams.
+## Zertifizierungen
 
-
----
-
-## 💼 Berufserfahrung (Auswahl)
-- **Java Backend Developer** — Findic GmbH · Projekt: PMA Versicherungsmakler (aktuell)
-- **Fullstack Developer** — ITinera GmbH · Projekt: KfW Bank
-- **Java Backend Developer** — Prime Force Group · Projekt: DZ BANK Portal
-
-Vollständiger Werdegang: [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a)
-
----
-
-## 🎓 Zertifizierungen
-
-- **Certified ScrumMaster (CSM)** — Scrum Alliance, 2022
-- **AWS Cloud Practitioner** — 06/2026
-
----
-
-<div align="center">
-
-📍 Frankfurt am Main
-
-</div>
+- AWS Certified Cloud Practitioner — 2026
+- Certified ScrumMaster (CSM), Scrum Alliance — 2022
