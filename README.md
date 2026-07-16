@@ -1,13 +1,43 @@
 # Hicham El Malki
 
 **Senior Software Engineer · Backend & AI Engineering**
-Frankfurt am Main · [hi.elmalki@hotmail.com](mailto:hi.elmalki@hotmail.com)
+Frankfurt am Main · [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a) · [hi.elmalki@hotmail.com](mailto:hi.elmalki@hotmail.com)
 
 Über 6 Jahre Erfahrung im Backend-Engineering für Banken und Versicherer — von Zahlungsverkehrssystemen bei der **KfW Bank** über Bankenportale für die **DZ BANK** bis zu Versicherungsplattformen. Spezialisiert auf produktionsreife Microservices in regulierten Umgebungen, zunehmend ergänzt um LLM-Anwendungen (RAG, Agenten-Architekturen, Evaluation).
 
 ---
 
-## Ausgewählte Projekte
+## Start Here
+
+- **[azure-boards-quality-gate](https://github.com/hielmalki/azure-boards-quality-gate)** — KI-gestütztes Quality Gate für Azure Boards
+- **[AWSAICoach](https://github.com/hielmalki/AWSAICoach)** — iOS-Lernapp mit KI-Tutor für die AWS-Zertifizierung
+- **[gitpulse](https://github.com/hielmalki/gitpulse)** — Rust-CLI, bewertet GitHub-Profile per Health Score
+- **Lebenslauf** — vollständiger Werdegang auf [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a)
+
+---
+
+## Woran ich gerade arbeite
+
+- **LLM Application Engineering** — RAG, Agenten-Architekturen, Evaluation
+- **AWS Solutions Architect Associate** — Aufbau auf den Cloud Practitioner
+- Nebenprojekte, die ich tatsächlich fertigstelle und veröffentliche, statt nur zu lernen
+
+---
+
+## Tech Stack
+
+| Bereich | Technologien |
+|---|---|
+| Backend | Java 17/21, Spring Boot 3, REST-APIs, Microservices, JPA/Hibernate |
+| Security | Spring Security, OAuth2, Keycloak |
+| Cloud & Infrastruktur | AWS, Azure, Kubernetes, OpenShift, Helm, Docker |
+| Datenbanken | PostgreSQL, IBM DB2, MongoDB |
+| Frontend | React, TypeScript, Vue.js |
+| AI & LLM | OpenAI, Anthropic Claude, RAG- & Agenten-Architekturen |
+
+---
+
+## Projekte im Detail
 
 **[azure-boards-quality-gate](https://github.com/hielmalki/azure-boards-quality-gate)**
 KI-gestütztes Quality Gate für Azure Boards: prüft Anforderungen direkt im Work-Item-Formular, liefert Fix-Vorschläge, erkennt Duplikate und generiert Testfälle als native Test-Case-Work-Items. React/TypeScript-Extension mit serverlosem Backend (Azure Functions, Table Storage, Key Vault).
@@ -32,3 +62,9 @@ Vollständiger Werdegang auf [LinkedIn](https://linkedin.com/in/hicham-el-malki-
 
 - AWS Certified Cloud Practitioner — 2026
 - Certified ScrumMaster (CSM), Scrum Alliance — 2022
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a) · [E-Mail](mailto:hi.elmalki@hotmail.com)
