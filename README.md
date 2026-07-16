@@ -1,22 +1,9 @@
 # Hicham El Malki
 
 **Senior Software Engineer · Backend & AI Engineering**
-Frankfurt am Main · [LinkedIn](https://linkedin.com/in/hicham-el-malki-185b0518a) · [hi.elmalki@hotmail.com](mailto:hi.elmalki@hotmail.com)
+Frankfurt am Main · [hi.elmalki@hotmail.com](mailto:hi.elmalki@hotmail.com)
 
 Über 6 Jahre Erfahrung im Backend-Engineering für Banken und Versicherer — von Zahlungsverkehrssystemen bei der **KfW Bank** über Bankenportale für die **DZ BANK** bis zu Versicherungsplattformen. Spezialisiert auf produktionsreife Microservices in regulierten Umgebungen, zunehmend ergänzt um LLM-Anwendungen (RAG, Agenten-Architekturen, Evaluation).
-
----
-
-## Tech Stack
-
-| Bereich | Technologien |
-|---|---|
-| Backend | Java 17/21, Spring Boot 3, REST-APIs, Microservices, JPA/Hibernate |
-| Security | Spring Security, OAuth2, Keycloak |
-| Cloud & Infrastruktur | AWS, Azure, Kubernetes, OpenShift, Helm, Docker |
-| Datenbanken | PostgreSQL, IBM DB2, MongoDB |
-| Frontend | React, TypeScript, Vue.js |
-| AI & LLM | OpenAI, Anthropic Claude, RAG- & Agenten-Architekturen |
 
 ---
 
